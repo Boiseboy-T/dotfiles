@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = takaaki0120n@gmail.com
+	name = takaakinakagami
